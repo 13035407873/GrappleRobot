@@ -1,0 +1,4 @@
+Change Component Footprint: Designator=E1 Old Footprint=CM A(3*5.4) New Footprint=C 1206
+Change Component Footprint: Designator=E2 Old Footprint=CM A(3*5.4) New Footprint=C 1206
+Change Component Designator: OldDesignator=MCU NewDesignator=U1
+Added Room: Name=GrappleRobot_ControlBoard_V1.0

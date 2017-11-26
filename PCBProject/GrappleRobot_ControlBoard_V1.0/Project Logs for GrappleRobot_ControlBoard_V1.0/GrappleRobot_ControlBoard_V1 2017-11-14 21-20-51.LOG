@@ -1,0 +1,12 @@
+Removed Pin From Net: NetName=NetLED6_1 Pin=LED6-1
+Removed Pin From Net: NetName=V3D3 Pin=R13-1
+Removed Pin From Net: NetName=NetLED6_1 Pin=R13-2
+Removed Member From Class: ClassName=GrappleRobot_ControlBoard_V1.0 Member=LED6
+Removed Member From Class: ClassName=GrappleRobot_ControlBoard_V1.0 Member=R13
+Change Component Designator: OldDesignator=MCU NewDesignator=U1
+Added Pin To Net: NetName=PB2 Pin=LED3-2
+Added Pin To Net: NetName=PA7 Pin=LED4-2
+Added Pin To Net: NetName=NetLED6_1 Pin=LED5-2
+Added Pin To Net: NetName=NetLED6_1 Pin=U1-2
+Change Net Name : Old Net Name=NetLED6_1 New Net Name=PC13
+Added Room: Name=GrappleRobot_ControlBoard_V1.0
